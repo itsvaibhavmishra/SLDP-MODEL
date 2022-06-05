@@ -18,13 +18,13 @@ Note: if webcam doesn't work then run this code to check your device number for 
 ## CODE :
 
 ```python
-	import cv2 as cv 
-	def testDevice(source):
-        cap = cv.VideoCapture(source) 
-        if cap is None or not cap.isOpened():
-            print('Warning: unable to open video source: ', source)
-	testDevice(0) # no printout
-    testDevice(1) # prints message 
+import cv2 as cv 
+def testDevice(source):
+    cap = cv.VideoCapture(source) 
+    if cap is None or not cap.isOpened():
+        print('Warning: unable to open video source: ', source)
+testDevice(0) # no printout
+testDevice(1) # prints message 
 ```
 and then change VideoCapture(0) code with your deive cam number
 
