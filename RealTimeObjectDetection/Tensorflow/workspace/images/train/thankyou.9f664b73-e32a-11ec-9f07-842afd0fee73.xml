@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimgs</folder>
+	<filename>thankyou.9f664b73-e32a-11ec-9f07-842afd0fee73.jpg</filename>
+	<path>D:\More\Projects\SLDP-Training-Models\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimgs\thankyou.9f664b73-e32a-11ec-9f07-842afd0fee73.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thank You</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>265</ymin>
+			<xmax>583</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>

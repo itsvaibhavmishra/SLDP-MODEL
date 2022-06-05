@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimgs</folder>
+	<filename>no.7f778c5d-e32a-11ec-97a7-842afd0fee73.jpg</filename>
+	<path>D:\More\Projects\SLDP-Training-Models\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimgs\no.7f778c5d-e32a-11ec-97a7-842afd0fee73.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>238</ymin>
+			<xmax>396</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>

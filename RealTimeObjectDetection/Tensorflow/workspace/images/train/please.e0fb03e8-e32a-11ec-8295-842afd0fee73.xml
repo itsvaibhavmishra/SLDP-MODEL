@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimgs</folder>
+	<filename>please.e0fb03e8-e32a-11ec-8295-842afd0fee73.jpg</filename>
+	<path>D:\More\Projects\SLDP-Training-Models\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimgs\please.e0fb03e8-e32a-11ec-8295-842afd0fee73.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Please</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>252</ymin>
+			<xmax>442</xmax>
+			<ymax>473</ymax>
+		</bndbox>
+	</object>
+</annotation>

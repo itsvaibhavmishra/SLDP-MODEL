@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimgs</folder>
+	<filename>bathroom.d0b10bf4-e32a-11ec-a5c4-842afd0fee73.jpg</filename>
+	<path>D:\More\Projects\SLDP-Training-Models\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimgs\bathroom.d0b10bf4-e32a-11ec-a5c4-842afd0fee73.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bathroom</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>419</xmin>
+			<ymin>141</ymin>
+			<xmax>591</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+</annotation>
