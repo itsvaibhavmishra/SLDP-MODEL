@@ -29,7 +29,7 @@ testDevice(1) # prints message
 and then change VideoCapture(0) code with your deive cam number
 
 ## Requirements :
-
+```bash
 OpenCV
 
 Numpy
@@ -43,9 +43,9 @@ Visual Studio
 Protoc
 
 TensorFlow Models
-
+```
 ### Optional :
-
+```bash
 Anaconda
 
 Jupyter notebook
@@ -53,3 +53,4 @@ Jupyter notebook
 CUDA
 
 CUDNN
+```
